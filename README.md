@@ -2,7 +2,7 @@
 
 You can read the full detailed report of the **Classroom Management System** here:
 
-👉 [Classroom Management Report (PDF)](./docs/Classroom_Management_Report.pdf)
+👉 [Classroom Management Report (PDF)](./docs/ClassRoom Management Report (1).pdf)
 
 <p align="center">
   <a href="./docs/Classroom_Management_Report.pdf">
